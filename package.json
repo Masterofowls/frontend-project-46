@@ -1,0 +1,19 @@
+{
+  "name": "frontend-project-46",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/Masterofowls/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Masterofowls/frontend-project-46/actions)",
+  "main": "gendiff.js",
+  "bin": {
+    "gendiff": "./gendiff.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "lodash": "^4.17.21"
+  }
+}
